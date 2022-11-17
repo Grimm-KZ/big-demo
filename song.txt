@@ -3,8 +3,12 @@ na na na na
 sword and spear
 wall of shields
 standing strong
+<<<<<<< HEAD
 form the lines
 
 sdasdasdasd
 asdasdasdasdasdasd
 asdasdasdasdsdasdasdas
+=======
+form the lines
+>>>>>>> 5790cc8d46d1732df8521571541a0e24c23f8d5d
